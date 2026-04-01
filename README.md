@@ -46,7 +46,7 @@ No build tools, package managers, or server setup is required. The project runs 
 3. The app will automatically load and fetch the current USD to INR exchange rate.
 
 ```bash
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/AnasMumtaz2004/Currency-Converter.git
 cd currency-converter
 open index.html
 ```
